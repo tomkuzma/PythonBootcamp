@@ -84,3 +84,10 @@ Report after purchasing latte:
 b. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If
 latte was their choice of drink
 </details>
+
+<details>
+  <summary><strong><span font-size:4em>Day 16 - Coffee Machine Project Using OOP</strong> <a name="day16"></a></summary>
+
+This is the same project as Day 15 but using OOP.
+
+</details>
